@@ -1,6 +1,6 @@
 require 'formula'
 
-class Sphinx-2.0.3 < Formula
+class Sphinx-2.0.9 < Formula
   homepage 'http://www.sphinxsearch.com'
   url 'http://sphinxsearch.com/files/sphinx-2.0.9-release.tar.gz'
   sha1 'f558dd2b96dabf26f533f5982bf1784582bf6f32'
